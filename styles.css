@@ -8,27 +8,22 @@
     font-weight: 700;
     line-height: 2;
 }
-
-
 .p{
     font-size: 11,5px;
     font-variant:bold;
     color:blue;
     line-height:4;
 }
-
 .paragraf{
     font-size: 12px;
 }
 .slika1{
     max-width: 400;
     max-height: 300;
-
 }
 .box1{
     border: 2px red  
 }
-
 .podnaslov2{
     font-size: 11,5px;
     font-weight: 700;
@@ -42,38 +37,28 @@
     font-variant: italic;
     color: blue
 }
-
-
-
 .podnaslov4{
     font-size: 11,5px;
     font-weight: 700;
     font-variant: italic;
     color: blue
 }
-   
-
 .podnaslov5{
     font-size: 11,5px;
     font-weight: 700;
     font-variant: italic;
     color: blue
 }
-
-
-
 .paragraf6{
     font-size: 12px;
     line-height: 3;
 }
-
 .podnaslov6{
     font-size: 11,5px;
     font-weight: 700;
     font-variant: italic;
     color: blue
 }
-
 .naslovcic2{
     font-size: 25px;
     font-weight: 700;
@@ -86,7 +71,6 @@
     font-variant: bold;
     line-height: 2;
 }
-
 .button{
     font-size: 15px;
     line-height: 5;
